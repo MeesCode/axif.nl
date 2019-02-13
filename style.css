@@ -1,0 +1,19 @@
+.hero{
+  height: 100vh;
+}
+
+.hero .output-container{
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  color: black;
+  margin: 20px 0;
+}
+
+.generate-button{
+  background-color: rgba(255, 255, 255,0.2);
+  border-radius: 10px;
+  padding: 20px;
+  width: 100%;
+  display: block;
+}
