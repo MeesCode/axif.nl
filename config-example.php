@@ -5,6 +5,7 @@
     define('DB_NAME', '');
 
     define('RECAPTCHA_SECRET', '');
+    define('RECAPTCHA_SITE', '');
     
     $mysqli = new mysqli(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
     
